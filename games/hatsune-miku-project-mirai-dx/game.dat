@@ -27,3 +27,14 @@ cpu = "Intel Core i5-3210M"
 gpu = "Radeon HD 8750M"
 os = "Windows 10 15063"
 author = "bronozoj"
+
+[[testcases]]
+title = "0004000000148C00"
+compatibility = "1"
+date = "2018-4-25"
+version = "HEAD-587450c"
+cpu = "AMD Ryzen 5 1600"
+gpu = "Powercolor Radeon RX570 Red Devil 4GB"
+RAM = "Crosair Vengeance 1x8GB ddr4-2667mhz
+os = "Windows 10 10.0.16299 Build 1299"
+author = "thread252"
